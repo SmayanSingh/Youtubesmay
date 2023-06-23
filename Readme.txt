@@ -22,7 +22,7 @@ This project is a clone of the YouTube channel "MrBeast" created solely using HT
 
 To get started with this project, follow the instructions below:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/SMAYANSYNC/youtubesmay.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in your preferred web browser.
 
